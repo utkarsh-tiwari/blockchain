@@ -1,13 +1,13 @@
 Metadata-Version: 2.1
-Name: json-to-excel
+Name: blockchain
 Version: 0.1
 Summary: A sample Python project
 Home-page: UNKNOWN
 Author: Utkarsh_Tiwari
 Author-email: utkarshtiwari1504@gmail.com
 License: UNKNOWN
-Description: # json_to_excel
-        Reusable JSON to Excel module
+Description: # blockchain
+        Blockchain project completed with the help of the tutorial at "https://hackernoon.com/learn-blockchains-by-building-one-117428612f46"
         
 Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
